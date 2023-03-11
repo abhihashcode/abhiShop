@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/abhihashcode/abhiShop/issues"
   },
-  "homepage": "https://github.com/abhihashcode/abhiShop#readme"
+  "homepage": "https://github.com/abhihashcode/abhiShop#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
 }
